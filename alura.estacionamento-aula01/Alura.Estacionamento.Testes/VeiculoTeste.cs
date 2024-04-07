@@ -48,9 +48,26 @@ namespace Alura.Estacionamento.Testes
         }
 
         [Fact(Skip = "Teste ainda não implementado. Ignorar")]
-        public void ValidaNome()
+        public void ValidaNomeProprietario()
         {
         
+        }
+
+        [Fact]
+        public void DadosVeiculo()
+        {
+            //Arrange
+            var carro = new Veiculo();
+            carro.Proprietario = "Carlos Silva";
+            carro.Placa = "ZAP-7419";
+            carro.Cor = "Verde";
+            carro.Modelo = "Variante";
+
+            //Act
+            string dados = carro.ToString();
+
+            //Assert
+            Assert.Contains("Tipo do Veiculo: Automovel", dados);
         }
     }
 }

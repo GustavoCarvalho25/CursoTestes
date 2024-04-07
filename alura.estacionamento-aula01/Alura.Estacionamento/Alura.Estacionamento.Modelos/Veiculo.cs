@@ -92,6 +92,16 @@ namespace Alura.Estacionamento.Modelos
             this.Cor = veiculoAlterado.Cor;
         }
 
+        public override string ToString()
+        {
+            return $"Ficha do veiculo:\n " +
+                    $"Tipo do Veiculo: {this.Tipo}\n " +
+                    $"Proprietario: {this.Proprietario}\n" +
+                    $"Modelo: {this.Modelo}\n" +
+                    $"Cor: {this.Cor}\n" +
+                    $"Placa: {this.Placa}\n";
+        }
+
         //Construtor
         public Veiculo()
         {
@@ -102,7 +112,5 @@ namespace Alura.Estacionamento.Modelos
         {
            Proprietario = proprietario;
         }
-
-       
     }
 }

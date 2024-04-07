@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Estudos\\DOTNET\\TESTES\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {}
+    "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {}
   },
   "projects": {
-    "D:\\Estudos\\DOTNET\\TESTES\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+    "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Estudos\\DOTNET\\TESTES\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectUniqueName": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "projectName": "Alura.Estacionamento",
-        "projectPath": "D:\\Estudos\\DOTNET\\TESTES\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectPath": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-        "outputPath": "D:\\Estudos\\DOTNET\\TESTES\\alura.estacionamento-aula01\\Alura.Estacionamento\\obj\\",
+        "outputPath": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
