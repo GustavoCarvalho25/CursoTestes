@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Alura.Estacionamento.Testes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c2a23f60ef5292cb4b54b0aa819e067c5c5f9456")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Alura.Estacionamento.Testes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Alura.Estacionamento.Testes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
