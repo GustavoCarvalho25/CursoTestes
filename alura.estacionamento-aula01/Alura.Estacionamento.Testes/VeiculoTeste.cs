@@ -6,7 +6,7 @@ using Xunit.Abstractions;
 
 namespace Alura.Estacionamento.Testes
 {
-    public class VeiculoTeste
+    public class VeiculoTeste :IDisposable
     {
         private Veiculo veiculo;
         public ITestOutputHelper saidaConsoleTeste;
@@ -113,8 +113,11 @@ namespace Alura.Estacionamento.Testes
                 //Act
                 () => new Veiculo().Placa = placaFormatoErrado
             );
-
         }
 
+        public void Dispose()
+        {
+            saidaConsoleTeste.WriteLine("Dispose invocado.");
+        }
     }
 }

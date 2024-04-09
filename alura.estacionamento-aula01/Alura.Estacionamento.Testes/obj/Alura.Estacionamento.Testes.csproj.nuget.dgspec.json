@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {}
+    "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {}
   },
   "projects": {
-    "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {
+    "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
+        "projectUniqueName": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
         "projectName": "Alura.Estacionamento.Testes",
-        "projectPath": "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
+        "projectPath": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\Alura.Estacionamento.Testes.csproj",
         "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\obj\\",
+        "outputPath": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento.Testes\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
-                "projectPath": "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj"
+              "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+                "projectPath": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj"
               }
             }
           }
@@ -81,18 +81,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
+    "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectUniqueName": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "projectName": "Alura.Estacionamento",
-        "projectPath": "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
+        "projectPath": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\Alura.Estacionamento.csproj",
         "packagesPath": "C:\\Users\\Gusta\\.nuget\\packages\\",
-        "outputPath": "C:\\ESTUDO\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\obj\\",
+        "outputPath": "D:\\Estudos\\DOTNET\\TESTES\\CursoTestes\\alura.estacionamento-aula01\\Alura.Estacionamento\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Gusta\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -136,7 +136,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }
